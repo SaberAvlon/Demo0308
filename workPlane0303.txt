@@ -1,1 +1,4 @@
 this is a new peogram start!
+first step :
+ create a git progrom,then ,create local flie 
+with unity3d tool.
